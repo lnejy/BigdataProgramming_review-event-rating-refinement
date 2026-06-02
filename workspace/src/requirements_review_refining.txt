@@ -1,0 +1,13 @@
+jupyter
+ipykernel
+pandas
+numpy
+matplotlib
+scikit-learn
+imbalanced-learn
+torch
+transformers
+tqdm
+emoji
+soynlp
+openpyxl
